@@ -1,0 +1,2 @@
+# Industrial-Operating-File-for-The-Robotic-Arm-Project
+This is considered to be the second Task in the Summer Internship Program at Smart Methods company. The file contains multiple elements about the Robotic Arm Project that the company works on. It contains a lot of information about the Operations of the project, Project's Testing, Project's Tolerances, User and Competitor Manual, and the Warranty on the Robot.   
